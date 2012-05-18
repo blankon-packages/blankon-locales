@@ -1,0 +1,15 @@
+Source: blankon-locales
+Section: desktop
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com> 
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+
+Package: blankon-locales
+Architecture: all
+Depends: ${misc:Depends}, locales
+Description: BlankOn Locales 
+ BlankOn Locales
+ on Debian Live systems.
+ .
+ This package contains the BlankOn locales.
