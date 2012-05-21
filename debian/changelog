@@ -1,3 +1,9 @@
+blankon-locales (0.2) rote; urgency=low
+
+  * Added /var/lib/locales/supported.d/*
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 21 May 2012 18:05:12 +0700
+
 blankon-locales (0.1) rote; urgency=low
 
   * First release

@@ -1,1 +1,2 @@
 localesdata/*	/usr/share/i18n/locales/
+supported.d/* /var/lib/locales/supported.d/
