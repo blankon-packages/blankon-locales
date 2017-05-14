@@ -1,3 +1,9 @@
+blankon-locales (0.5) uluwatu; urgency=medium
+
+  * Rebuild release for uluwatu.
+
+ -- Achmad Yusri Afandi <yusrideb@cpan.org>  Sun, 14 May 2017 16:52:28 +0800
+
 blankon-locales (0.4) tambora; urgency=low
 
   * Uploat to tambora1 
